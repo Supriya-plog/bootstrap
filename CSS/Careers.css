@@ -1,0 +1,52 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.a{
+			background-color:  #0000008f;
+			}
+.bc{
+			padding-left: 15px;
+
+		}
+		.desktop{
+			display: block;
+		}
+		.mob{
+			display: none;
+		}
+
+.bi2{
+	background-image: url(https://www.firstfiddle.in/assets/images/banner-about.jpg);
+	width: 100%;
+	height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.career{
+	padding-top: 315px;
+	font-size: 70px;
+}
+.franchise{
+			border: 1px solid #fbaa1a;
+
+		}
+.career-styles{
+	padding: 2px 85px; 
+}
+.form{
+  padding-right: 50px;
+}
+.foot{
+    color: #fff;
+    padding: 15px;
+}
+.foot a{
+    text-decoration: none;
+}
+.footer{
+    font-size: 13px;
+    color: white;
+    margin: 0px;
+}

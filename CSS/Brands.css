@@ -1,0 +1,80 @@
+.franchise{
+			border: 1px solid #fbaa1a;
+
+		}
+	/*.bc{
+			padding-left: 15px;
+
+		}*/
+.career{
+	padding-top: 315px;
+	font-size: 70px;
+}
+.bp{
+	background-image: url(https://www.firstfiddle.in/assets/images/brands.jpg);
+	width: 100%;
+	height: 650px;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.d-block {
+    display: block!important;
+}
+.brands-logos{
+	padding: 5%;
+}
+.mob-logo{
+    display: none;
+}
+.nav-link{
+    text-decoration: none;
+    font-weight: 500px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+ .a{
+      background-color: #0000009c;
+   }
+@media(max-width: 768px){
+    .a{
+        background-color: #fec926;
+    }
+    .web-logo{
+        display: none;
+    }
+    .mob-logo{
+        width: 200px;
+        display: block;
+    }
+       .border-box{
+        display: none;
+    }
+     .nav-item{
+        text-align: center;
+        line-height: 25px;
+    }
+
+}
+.h{
+			height: 500px;
+		}
+		.back{
+			background: #111215;
+		}
+		.mt{
+			margin-top: 80px;
+		}
+			.media{
+			font-family: 'Unica One', cursive;
+            
+            font-size: 60px;
+		}
+		.text{
+			text-decoration: none;
+		}
+		.text:hover{
+			text-decoration: underline;
+		}
+		.mt2{
+			margin-top: 20px;
+		}

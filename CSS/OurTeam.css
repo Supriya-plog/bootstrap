@@ -1,0 +1,74 @@
+.franchise{
+			border: 1px solid #fbaa1a;
+
+		}
+	/*.bc{
+			padding-left: 15px;
+
+		}*/
+		.bp{
+	background-image: url(https://www.firstfiddle.in/assets/images/franchise-with-us.jpg);
+	width: 100%;
+	height: 650px;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.career{
+	padding-top: 315px;
+	font-size: 70px;
+}
+.priyank{
+	margin-left: 25px;
+}
+.text-left{
+	
+}
+.box16{
+	    text-align: center;
+    color: #fff;
+    position: relative;
+    margin-top: 20px;
+}
+.box-content{
+	padding: 20px;
+    margin-bottom: 20px;
+    bottom: 0;
+    z-index: 1;
+}
+.title{
+	font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.mob-logo{
+    display: none;
+}
+.nav-link{
+    text-decoration: none;
+    font-weight: 500px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+ .a{
+      background-color: #0000009c;
+   }
+@media(max-width: 768px){
+    .a{
+        background-color: #fec926;
+    }
+    .web-logo{
+        display: none;
+    }
+    .mob-logo{
+        width: 200px;
+        display: block;
+    }
+       .border-box{
+        display: none;
+    }
+     .nav-item{
+        text-align: center;
+        line-height: 25px;
+    }
+
+}
